@@ -59,14 +59,15 @@
     "América del Norte": [
       { "code": "CA", "name": "Canadá", "flag": "🇨🇦" },
       { "code": "US", "name": "Estados Unidos", "flag": "🇺🇸" },
-      { "code": "MX", "name": "México", "flag": "🇲🇽" }
+      { "code": "MX", "name": "México", "flag": "🇲🇽" },
+      { "code": "GL", "name": "Groenlandia", "flag": "🇬🇱" }
     ],
     "América Central": [
       { "code": "BZ", "name": "Belice", "flag": "🇧🇿" },
       { "code": "CR", "name": "Costa Rica", "flag": "🇨🇷" },
       { "code": "SV", "name": "El Salvador", "flag": "🇸🇻" },
       { "code": "GT", "name": "Guatemala", "flag": "🇬🇹" },
-      { "code": "HN", "name": "Honduras", "flag": "🇭🇳" },
+      { "code": "HN", "name": "Honduras", "flag": "����🇳" },
       { "code": "NI", "name": "Nicaragua", "flag": "🇳🇮" },
       { "code": "PA", "name": "Panamá", "flag": "🇵🇦" }
     ],
@@ -83,7 +84,9 @@
       { "code": "LC", "name": "Santa Lucía", "flag": "🇱🇨" },
       { "code": "VC", "name": "San Vicente y las Granadinas", "flag": "🇻🇨" },
       { "code": "TT", "name": "Trinidad y Tobago", "flag": "🇹🇹" },
-      { "code": "DO", "name": "República Dominicana", "flag": "🇩🇴" }
+      { "code": "DO", "name": "República Dominicana", "flag": "🇩🇴" },
+      { "code": "BM", "name": "Bermudas", "flag": "🇧🇲" },
+      { "code": "PR", "name": "Puerto Rico", "flag": "🇵🇷" }
     ],
     "América del Sur": [
       { "code": "AR", "name": "Argentina", "flag": "🇦🇷" },
@@ -97,7 +100,8 @@
       { "code": "PE", "name": "Perú", "flag": "🇵🇪" },
       { "code": "SR", "name": "Surinam", "flag": "🇸🇷" },
       { "code": "UY", "name": "Uruguay", "flag": "🇺🇾" },
-      { "code": "VE", "name": "Venezuela", "flag": "🇻🇪" }
+      { "code": "VE", "name": "Venezuela", "flag": "🇻🇪" },
+      { "code": "FK", "name": "Islas Malvinas", "flag": "🇫🇰" }
     ]
   },
   "Asia": [
@@ -143,7 +147,10 @@
     { "code": "TM", "name": "Turkmenistán", "flag": "🇹🇲" },
     { "code": "UZ", "name": "Uzbekistán", "flag": "🇺🇿" },
     { "code": "VN", "name": "Vietnam", "flag": "🇻🇳" },
-    { "code": "YE", "name": "Yemen", "flag": "🇾🇪" }
+    { "code": "YE", "name": "Yemen", "flag": "🇾🇪" },
+    { "code": "HK", "name": "Hong Kong", "flag": "🇭🇰" },
+    { "code": "MO", "name": "Macao", "flag": "🇲🇴" },
+    { "code": "TW", "name": "Taiwán", "flag": "🇹🇼" }
   ],
   "Europa": [
     { "code": "AL", "name": "Albania", "flag": "🇦🇱" },
