@@ -247,6 +247,7 @@
     { "code": "PF", "name": "Polinesia Francesa", "flag": "🇵🇫" },
     { "code": "CK", "name": "Islas Cook", "flag": "🇨🇰" },
     { "code": "NU", "name": "Niue", "flag": "🇳🇺" },
-    { "code": "TK", "name": "Tokelau", "flag": "🇹🇰" }
+    { "code": "TK", "name": "Tokelau", "flag": "🇹🇰" },
+    { "code": "RE", "name": "Reunión", "flag": "🇷🇪" }
   ]
 }
