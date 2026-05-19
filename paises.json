@@ -67,7 +67,7 @@
       { "code": "CR", "name": "Costa Rica", "flag": "🇨🇷" },
       { "code": "SV", "name": "El Salvador", "flag": "🇸🇻" },
       { "code": "GT", "name": "Guatemala", "flag": "🇬🇹" },
-      { "code": "HN", "name": "Honduras", "flag": "����🇳" },
+      { "code": "HN", "name": "Honduras", "flag": "🇭🇳" },
       { "code": "NI", "name": "Nicaragua", "flag": "🇳🇮" },
       { "code": "PA", "name": "Panamá", "flag": "🇵🇦" }
     ],
@@ -86,7 +86,20 @@
       { "code": "TT", "name": "Trinidad y Tobago", "flag": "🇹🇹" },
       { "code": "DO", "name": "República Dominicana", "flag": "🇩🇴" },
       { "code": "BM", "name": "Bermudas", "flag": "🇧🇲" },
-      { "code": "PR", "name": "Puerto Rico", "flag": "🇵🇷" }
+      { "code": "PR", "name": "Puerto Rico", "flag": "🇵🇷" },
+      { "code": "AI", "name": "Anguila", "flag": "🇦🇮" },
+      { "code": "KY", "name": "Islas Caimán", "flag": "🇰🇾" },
+      { "code": "VG", "name": "Islas Vírgenes Británicas", "flag": "🇻🇬" },
+      { "code": "VI", "name": "Islas Vírgenes de EE.UU.", "flag": "🇻🇮" },
+      { "code": "GP", "name": "Guadalupe", "flag": "🇬🇵" },
+      { "code": "MQ", "name": "Martinica", "flag": "🇲🇶" },
+      { "code": "MS", "name": "Montserrat", "flag": "🇲🇸" },
+      { "code": "BL", "name": "San Bartolomé", "flag": "🇧🇱" },
+      { "code": "MF", "name": "San Martín", "flag": "🇲🇫" },
+      { "code": "SX", "name": "Sint Maarten", "flag": "🇸🇽" },
+      { "code": "CW", "name": "Curazao", "flag": "🇨🇼" },
+      { "code": "BQ", "name": "Bonaire, San Eustaquio y Saba", "flag": "🇧🇶" },
+      { "code": "AW", "name": "Aruba", "flag": "🇦🇼" }
     ],
     "América del Sur": [
       { "code": "AR", "name": "Argentina", "flag": "🇦🇷" },
@@ -101,7 +114,8 @@
       { "code": "SR", "name": "Surinam", "flag": "🇸🇷" },
       { "code": "UY", "name": "Uruguay", "flag": "🇺🇾" },
       { "code": "VE", "name": "Venezuela", "flag": "🇻🇪" },
-      { "code": "FK", "name": "Islas Malvinas", "flag": "🇫🇰" }
+      { "code": "FK", "name": "Islas Malvinas", "flag": "🇫🇰" },
+      { "code": "GF", "name": "Guayana Francesa", "flag": "🇬🇫" }
     ]
   },
   "Asia": [
@@ -150,7 +164,9 @@
     { "code": "YE", "name": "Yemen", "flag": "🇾🇪" },
     { "code": "HK", "name": "Hong Kong", "flag": "🇭🇰" },
     { "code": "MO", "name": "Macao", "flag": "🇲🇴" },
-    { "code": "TW", "name": "Taiwán", "flag": "🇹🇼" }
+    { "code": "TW", "name": "Taiwán", "flag": "🇹🇼" },
+    { "code": "AZ", "name": "Azerbaiyán", "flag": "🇦🇿" },
+    { "code": "IO", "name": "Territorio Británico del Océano Índico", "flag": "🇮🇴" }
   ],
   "Europa": [
     { "code": "AL", "name": "Albania", "flag": "🇦🇱" },
@@ -158,7 +174,6 @@
     { "code": "AD", "name": "Andorra", "flag": "🇦🇩" },
     { "code": "AM", "name": "Armenia", "flag": "🇦🇲" },
     { "code": "AT", "name": "Austria", "flag": "🇦🇹" },
-    { "code": "AZ", "name": "Azerbaiyán", "flag": "🇦🇿" },
     { "code": "BE", "name": "Bélgica", "flag": "🇧🇪" },
     { "code": "BY", "name": "Bielorrusia", "flag": "🇧🇾" },
     { "code": "BA", "name": "Bosnia y Herzegovina", "flag": "🇧🇦" },
@@ -202,7 +217,12 @@
     { "code": "CH", "name": "Suiza", "flag": "🇨🇭" },
     { "code": "TR", "name": "Turquía", "flag": "🇹🇷" },
     { "code": "UA", "name": "Ucrania", "flag": "🇺🇦" },
-    { "code": "VA", "name": "Ciudad del Vaticano", "flag": "🇻🇦" }
+    { "code": "VA", "name": "Ciudad del Vaticano", "flag": "🇻🇦" },
+    { "code": "IM", "name": "Isla de Man", "flag": "🇮🇲" },
+    { "code": "GG", "name": "Guernsey", "flag": "🇬🇬" },
+    { "code": "JE", "name": "Jersey", "flag": "🇯🇪" },
+    { "code": "AX", "name": "Åland", "flag": "🇦🇽" },
+    { "code": "FO", "name": "Islas Feroe", "flag": "🇫🇴" }
   ],
   "Oceanía": [
     { "code": "AU", "name": "Australia", "flag": "🇦🇺" },
@@ -218,6 +238,14 @@
     { "code": "SB", "name": "Islas Salomón", "flag": "🇸🇧" },
     { "code": "TO", "name": "Tonga", "flag": "🇹🇴" },
     { "code": "TV", "name": "Tuvalu", "flag": "🇹🇻" },
-    { "code": "VU", "name": "Vanuatu", "flag": "🇻🇺" }
+    { "code": "VU", "name": "Vanuatu", "flag": "🇻🇺" },
+    { "code": "GU", "name": "Guam", "flag": "🇬🇺" },
+    { "code": "MP", "name": "Islas Marianas del Norte", "flag": "🇲🇵" },
+    { "code": "AS", "name": "Samoa Americana", "flag": "🇦🇸" },
+    { "code": "NC", "name": "Nueva Caledonia", "flag": "🇳🇨" },
+    { "code": "PF", "name": "Polinesia Francesa", "flag": "🇵🇫" },
+    { "code": "CK", "name": "Islas Cook", "flag": "🇨🇰" },
+    { "code": "NU", "name": "Niue", "flag": "🇳🇺" },
+    { "code": "TK", "name": "Tokelau", "flag": "🇹🇰" }
   ]
 }
