@@ -1,6 +1,5 @@
 {
   "África": [
-    { "code": "ZA", "name": "Sudáfrica", "flag": "🇿🇦" },
     { "code": "DZ", "name": "Argelia", "flag": "🇩🇿" },
     { "code": "AO", "name": "Angola", "flag": "🇦🇴" },
     { "code": "BJ", "name": "Benín", "flag": "🇧🇯" },
@@ -53,8 +52,11 @@
     { "code": "TG", "name": "Togo", "flag": "🇹🇬" },
     { "code": "TN", "name": "Túnez", "flag": "🇹🇳" },
     { "code": "UG", "name": "Uganda", "flag": "🇺🇬" },
+    { "code": "ZA", "name": "Sudáfrica", "flag": "🇿🇦" },
     { "code": "ZM", "name": "Zambia", "flag": "🇿🇲" },
-    { "code": "ZW", "name": "Zimbabue", "flag": "🇿🇼" }
+    { "code": "ZW", "name": "Zimbabue", "flag": "🇿🇼" },
+    { "code": "YT", "name": "Mayotte", "flag": "🇾🇹" },
+    { "code": "RE", "name": "Reunión", "flag": "🇷🇪" }
   ],
   "América": {
     "América del Norte": [
@@ -100,7 +102,9 @@
       { "code": "SX", "name": "Sint Maarten", "flag": "🇸🇽" },
       { "code": "CW", "name": "Curazao", "flag": "🇨🇼" },
       { "code": "BQ", "name": "Bonaire, San Eustaquio y Saba", "flag": "🇧🇶" },
-      { "code": "AW", "name": "Aruba", "flag": "🇦🇼" }
+      { "code": "AW", "name": "Aruba", "flag": "🇦🇼" },
+      { "code": "TC", "name": "Islas Turcas y Caicos", "flag": "🇹🇨" },
+      { "code": "PM", "name": "San Pedro y Miquelón", "flag": "🇵🇲" }
     ],
     "América del Sur": [
       { "code": "AR", "name": "Argentina", "flag": "🇦🇷" },
@@ -223,7 +227,8 @@
     { "code": "GG", "name": "Guernsey", "flag": "🇬🇬" },
     { "code": "JE", "name": "Jersey", "flag": "🇯🇪" },
     { "code": "AX", "name": "Åland", "flag": "🇦🇽" },
-    { "code": "FO", "name": "Islas Feroe", "flag": "🇫🇴" }
+    { "code": "FO", "name": "Islas Feroe", "flag": "🇫🇴" },
+    { "code": "SJ", "name": "Svalbard y Jan Mayen", "flag": "🇸🇯" }
   ],
   "Oceanía": [
     { "code": "AU", "name": "Australia", "flag": "🇦🇺" },
@@ -248,6 +253,14 @@
     { "code": "CK", "name": "Islas Cook", "flag": "🇨🇰" },
     { "code": "NU", "name": "Niue", "flag": "🇳🇺" },
     { "code": "TK", "name": "Tokelau", "flag": "🇹🇰" },
-    { "code": "RE", "name": "Reunión", "flag": "🇷🇪" }
+    { "code": "WF", "name": "Wallis y Futuna", "flag": "🇼🇫" },
+    { "code": "PN", "name": "Islas Pitcairn", "flag": "🇵🇳" },
+    { "code": "CX", "name": "Isla de Navidad", "flag": "🇨🇽" },
+    { "code": "CC", "name": "Islas Cocos", "flag": "🇨🇨" },
+    { "code": "NF", "name": "Isla Norfolk", "flag": "🇳🇫" },
+    { "code": "GS", "name": "Georgia del Sur y Sandwich del Sur", "flag": "🇬🇸" },
+    { "code": "TF", "name": "Tierras Australes Francesas", "flag": "🇹🇫" },
+    { "code": "BV", "name": "Isla Bouvet", "flag": "🇧🇻" },
+    { "code": "HM", "name": "Isla Heard", "flag": "🇭🇲" }
   ]
 }
